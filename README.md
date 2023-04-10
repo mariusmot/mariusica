@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariusica
 - 👀 I am a Software Tester
-- 🌱 I’m currently learning Java language
+- 🌱 I’m currently learning Java, Python and C language
 - 💞️ I’m looking to collaborate on Testing Projects
 - 📫 How to reach me 📞+40 745 264 879 📧marius.mot79@gmail.com
 
