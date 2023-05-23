@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariusica
+- 👋 Hi, I’m @mariusmot
 - 👀 I am a Software Tester
 - 🌱 I’m currently learning Java, Python and C language
 - 💞️ I’m looking to collaborate on Testing Projects
